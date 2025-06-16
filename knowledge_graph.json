@@ -1,0 +1,2238 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "type": "entity",
+      "label": "澳門旅遊大學",
+      "size": 30,
+      "id": "澳門旅遊大學"
+    },
+    {
+      "type": "entity",
+      "label": "平等機會政策",
+      "size": 10,
+      "id": "平等機會政策"
+    },
+    {
+      "type": "entity",
+      "label": "學士學位課程手冊",
+      "size": 10,
+      "id": "學士學位課程手冊"
+    },
+    {
+      "type": "entity",
+      "label": "課程概覧",
+      "size": 5,
+      "id": "課程概覧"
+    },
+    {
+      "type": "entity",
+      "label": "課程規章",
+      "size": 5,
+      "id": "課程規章"
+    },
+    {
+      "type": "entity",
+      "label": "教務部",
+      "size": 25,
+      "id": "教務部"
+    },
+    {
+      "type": "entity",
+      "label": "課程大綱",
+      "size": 10,
+      "id": "課程大綱"
+    },
+    {
+      "type": "entity",
+      "label": "平均分 (GPA)",
+      "size": 5,
+      "id": "平均分 (GPA)"
+    },
+    {
+      "type": "entity",
+      "label": "學目成績公佈",
+      "size": 5,
+      "id": "學目成績公佈"
+    },
+    {
+      "type": "entity",
+      "label": "分數覆核及上訴",
+      "size": 5,
+      "id": "分數覆核及上訴"
+    },
+    {
+      "type": "entity",
+      "label": "評估或考核",
+      "size": 10,
+      "id": "評估或考核"
+    },
+    {
+      "type": "entity",
+      "label": "休學",
+      "size": 15,
+      "id": "休學"
+    },
+    {
+      "type": "entity",
+      "label": "學生",
+      "size": 50,
+      "id": "學生"
+    },
+    {
+      "type": "entity",
+      "label": "退學",
+      "size": 5,
+      "id": "退學"
+    },
+    {
+      "type": "entity",
+      "label": "復學",
+      "size": 10,
+      "id": "復學"
+    },
+    {
+      "type": "entity",
+      "label": "評估方法",
+      "size": 5,
+      "id": "評估方法"
+    },
+    {
+      "type": "entity",
+      "label": "學業不誠實行為的政策",
+      "size": 10,
+      "id": "學業不誠實行為的政策"
+    },
+    {
+      "type": "entity",
+      "label": "支援和優化學生學習",
+      "size": 5,
+      "id": "支援和優化學生學習"
+    },
+    {
+      "type": "entity",
+      "label": "英語中心",
+      "size": 10,
+      "id": "英語中心"
+    },
+    {
+      "type": "entity",
+      "label": "學生學習",
+      "size": 15,
+      "id": "學生學習"
+    },
+    {
+      "type": "entity",
+      "label": "數學中心",
+      "size": 10,
+      "id": "數學中心"
+    },
+    {
+      "type": "entity",
+      "label": "課餘活動",
+      "size": 5,
+      "id": "課餘活動"
+    },
+    {
+      "type": "entity",
+      "label": "考試中的不當行為",
+      "size": 10,
+      "id": "考試中的不當行為"
+    },
+    {
+      "type": "entity",
+      "label": "呈交分數",
+      "size": 5,
+      "id": "呈交分數"
+    },
+    {
+      "type": "entity",
+      "label": "考試",
+      "size": 10,
+      "id": "考試"
+    },
+    {
+      "type": "entity",
+      "label": "評估或考核時間表",
+      "size": 5,
+      "id": "評估或考核時間表"
+    },
+    {
+      "type": "entity",
+      "label": "認識評估或考核規則",
+      "size": 5,
+      "id": "認識評估或考核規則"
+    },
+    {
+      "type": "entity",
+      "label": "教學委員會",
+      "size": 5,
+      "id": "教學委員會"
+    },
+    {
+      "type": "entity",
+      "label": "學生代表",
+      "size": 5,
+      "id": "學生代表"
+    },
+    {
+      "type": "entity",
+      "label": "學生紀律守則",
+      "size": 20,
+      "id": "學生紀律守則"
+    },
+    {
+      "type": "entity",
+      "label": "學生處分小組",
+      "size": 20,
+      "id": "學生處分小組"
+    },
+    {
+      "type": "entity",
+      "label": "審理學生違規個案的體制",
+      "size": 5,
+      "id": "審理學生違規個案的體制"
+    },
+    {
+      "type": "entity",
+      "label": "輕微過失",
+      "size": 5,
+      "id": "輕微過失"
+    },
+    {
+      "type": "entity",
+      "label": "嚴重過失",
+      "size": 5,
+      "id": "嚴重過失"
+    },
+    {
+      "type": "entity",
+      "label": "實習單位",
+      "size": 5,
+      "id": "實習單位"
+    },
+    {
+      "type": "entity",
+      "label": "申請",
+      "size": 5,
+      "id": "申請"
+    },
+    {
+      "type": "entity",
+      "label": "違規行為",
+      "size": 10,
+      "id": "違規行為"
+    },
+    {
+      "type": "entity",
+      "label": "學生簽證",
+      "size": 5,
+      "id": "學生簽證"
+    },
+    {
+      "type": "entity",
+      "label": "課程活動之行政支援",
+      "size": 5,
+      "id": "課程活動之行政支援"
+    },
+    {
+      "type": "entity",
+      "label": "學士學位課程",
+      "size": 30,
+      "id": "學士學位課程"
+    },
+    {
+      "type": "entity",
+      "label": "學年",
+      "size": 5,
+      "id": "學年"
+    },
+    {
+      "type": "entity",
+      "label": "修讀年期及畢業學分",
+      "size": 5,
+      "id": "修讀年期及畢業學分"
+    },
+    {
+      "type": "entity",
+      "label": "畢業資格",
+      "size": 5,
+      "id": "畢業資格"
+    },
+    {
+      "type": "entity",
+      "label": "畢業榮譽",
+      "size": 5,
+      "id": "畢業榮譽"
+    },
+    {
+      "type": "entity",
+      "label": "實習",
+      "size": 5,
+      "id": "實習"
+    },
+    {
+      "type": "entity",
+      "label": "班級",
+      "size": 5,
+      "id": "班級"
+    },
+    {
+      "type": "entity",
+      "label": "旅遊及服務業範疇的學位和專業培訓課程",
+      "size": 5,
+      "id": "旅遊及服務業範疇的學位和專業培訓課程"
+    },
+    {
+      "type": "entity",
+      "label": "學生手冊",
+      "size": 5,
+      "id": "學生手冊"
+    },
+    {
+      "type": "entity",
+      "label": "資料有助學生解決在讀時可能遇到的問題",
+      "size": 5,
+      "id": "資料有助學生解決在讀時可能遇到的問題"
+    },
+    {
+      "type": "entity",
+      "label": "有關學生實習支援",
+      "size": 5,
+      "id": "有關學生實習支援"
+    },
+    {
+      "type": "entity",
+      "label": "成功通過課程大綱上所有評核要求",
+      "size": 5,
+      "id": "成功通過課程大綱上所有評核要求"
+    },
+    {
+      "type": "entity",
+      "label": "申請者",
+      "size": 5,
+      "id": "申請者"
+    },
+    {
+      "type": "entity",
+      "label": "填妥專用表格",
+      "size": 5,
+      "id": "填妥專用表格"
+    },
+    {
+      "type": "entity",
+      "label": "合理缺席",
+      "size": 20,
+      "id": "合理缺席"
+    },
+    {
+      "type": "entity",
+      "label": "準時上課",
+      "size": 5,
+      "id": "準時上課"
+    },
+    {
+      "type": "entity",
+      "label": "達到最少75%才可參加考試",
+      "size": 5,
+      "id": "達到最少75%才可參加考試"
+    },
+    {
+      "type": "entity",
+      "label": "住院病假",
+      "size": 5,
+      "id": "住院病假"
+    },
+    {
+      "type": "entity",
+      "label": "醫療強制隔離",
+      "size": 5,
+      "id": "醫療強制隔離"
+    },
+    {
+      "type": "entity",
+      "label": "喪假",
+      "size": 5,
+      "id": "喪假"
+    },
+    {
+      "type": "entity",
+      "label": "參加由學院安排或支持的活動",
+      "size": 5,
+      "id": "參加由學院安排或支持的活動"
+    },
+    {
+      "type": "entity",
+      "label": "出席率",
+      "size": 5,
+      "id": "出席率"
+    },
+    {
+      "type": "entity",
+      "label": "考試資格",
+      "size": 5,
+      "id": "考試資格"
+    },
+    {
+      "type": "entity",
+      "label": "獲相關學院院長批准",
+      "size": 5,
+      "id": "獲相關學院院長批准"
+    },
+    {
+      "type": "entity",
+      "label": "休學期",
+      "size": 5,
+      "id": "休學期"
+    },
+    {
+      "type": "entity",
+      "label": "最長修讀期",
+      "size": 5,
+      "id": "最長修讀期"
+    },
+    {
+      "type": "entity",
+      "label": "附有簽署的成績表",
+      "size": 5,
+      "id": "附有簽署的成績表"
+    },
+    {
+      "type": "entity",
+      "label": "相關學院院長",
+      "size": 5,
+      "id": "相關學院院長"
+    },
+    {
+      "type": "entity",
+      "label": "上訴專案小組",
+      "size": 5,
+      "id": "上訴專案小組"
+    },
+    {
+      "type": "entity",
+      "label": "復學生",
+      "size": 5,
+      "id": "復學生"
+    },
+    {
+      "type": "entity",
+      "label": "大學",
+      "size": 15,
+      "id": "大學"
+    },
+    {
+      "type": "entity",
+      "label": "遵從有關安排",
+      "size": 5,
+      "id": "遵從有關安排"
+    },
+    {
+      "type": "entity",
+      "label": "非正式退學學生",
+      "size": 5,
+      "id": "非正式退學學生"
+    },
+    {
+      "type": "entity",
+      "label": "繳交相關行政費澳門元3,000",
+      "size": 5,
+      "id": "繳交相關行政費澳門元3,000"
+    },
+    {
+      "type": "entity",
+      "label": "携帶身份證明文件或學生證",
+      "size": 5,
+      "id": "携帶身份證明文件或學生證"
+    },
+    {
+      "type": "entity",
+      "label": "遵守監考人員的指引",
+      "size": 5,
+      "id": "遵守監考人員的指引"
+    },
+    {
+      "type": "entity",
+      "label": "首席監考員",
+      "size": 5,
+      "id": "首席監考員"
+    },
+    {
+      "type": "entity",
+      "label": "把考試改期或取消",
+      "size": 5,
+      "id": "把考試改期或取消"
+    },
+    {
+      "type": "entity",
+      "label": "確保所有補充頁或相關文件存放於答案簿內",
+      "size": 5,
+      "id": "確保所有補充頁或相關文件存放於答案簿內"
+    },
+    {
+      "type": "entity",
+      "label": "儘早以電郵或電話通知教務部",
+      "size": 5,
+      "id": "儘早以電郵或電話通知教務部"
+    },
+    {
+      "type": "entity",
+      "label": "提交病假申請",
+      "size": 5,
+      "id": "提交病假申請"
+    },
+    {
+      "type": "entity",
+      "label": "病假證明",
+      "size": 5,
+      "id": "病假證明"
+    },
+    {
+      "type": "entity",
+      "label": "由醫院或政府衛生中心發出之病假證明",
+      "size": 5,
+      "id": "由醫院或政府衛生中心發出之病假證明"
+    },
+    {
+      "type": "entity",
+      "label": "病假申請",
+      "size": 5,
+      "id": "病假申請"
+    },
+    {
+      "type": "entity",
+      "label": "補考",
+      "size": 10,
+      "id": "補考"
+    },
+    {
+      "type": "entity",
+      "label": "於有關考試日起三週內完成",
+      "size": 5,
+      "id": "於有關考試日起三週內完成"
+    },
+    {
+      "type": "entity",
+      "label": "其他考核方式進行",
+      "size": 5,
+      "id": "其他考核方式進行"
+    },
+    {
+      "type": "entity",
+      "label": "申請更改評估或考核時間表",
+      "size": 5,
+      "id": "申請更改評估或考核時間表"
+    },
+    {
+      "type": "entity",
+      "label": "不誠實行為",
+      "size": 5,
+      "id": "不誠實行為"
+    },
+    {
+      "type": "entity",
+      "label": "作弊",
+      "size": 5,
+      "id": "作弊"
+    },
+    {
+      "type": "entity",
+      "label": "學士學位課程學生",
+      "size": 5,
+      "id": "學士學位課程學生"
+    },
+    {
+      "type": "entity",
+      "label": "數學相關的支援",
+      "size": 5,
+      "id": "數學相關的支援"
+    },
+    {
+      "type": "entity",
+      "label": "參加任何活動",
+      "size": 5,
+      "id": "參加任何活動"
+    },
+    {
+      "type": "entity",
+      "label": "交換生課程",
+      "size": 5,
+      "id": "交換生課程"
+    },
+    {
+      "type": "entity",
+      "label": "望廈迎賓館",
+      "size": 5,
+      "id": "望廈迎賓館"
+    },
+    {
+      "type": "entity",
+      "label": "專業培訓",
+      "size": 10,
+      "id": "專業培訓"
+    },
+    {
+      "type": "entity",
+      "label": "教學餐廳",
+      "size": 5,
+      "id": "教學餐廳"
+    },
+    {
+      "type": "entity",
+      "label": "學術委員會",
+      "size": 20,
+      "id": "學術委員會"
+    },
+    {
+      "type": "entity",
+      "label": "違規學生",
+      "size": 5,
+      "id": "違規學生"
+    },
+    {
+      "type": "entity",
+      "label": "學術委員會上訴",
+      "size": 5,
+      "id": "學術委員會上訴"
+    },
+    {
+      "type": "entity",
+      "label": "審議上訴",
+      "size": 5,
+      "id": "審議上訴"
+    },
+    {
+      "type": "entity",
+      "label": "處罰及自辯紀錄",
+      "size": 5,
+      "id": "處罰及自辯紀錄"
+    },
+    {
+      "type": "entity",
+      "label": "學生上訴",
+      "size": 5,
+      "id": "學生上訴"
+    },
+    {
+      "type": "entity",
+      "label": "在判決後10個工作天內以書面陳述其上訴的理據",
+      "size": 5,
+      "id": "在判決後10個工作天內以書面陳述其上訴的理據"
+    },
+    {
+      "type": "entity",
+      "label": "相關人士處理事件",
+      "size": 5,
+      "id": "相關人士處理事件"
+    },
+    {
+      "type": "entity",
+      "label": "傳召其他證人",
+      "size": 5,
+      "id": "傳召其他證人"
+    },
+    {
+      "type": "entity",
+      "label": "所有的上訴作出書面紀錄",
+      "size": 5,
+      "id": "所有的上訴作出書面紀錄"
+    },
+    {
+      "type": "entity",
+      "label": "圖書館",
+      "size": 5,
+      "id": "圖書館"
+    },
+    {
+      "type": "entity",
+      "label": "學習及資訊搜索",
+      "size": 5,
+      "id": "學習及資訊搜索"
+    },
+    {
+      "type": "entity",
+      "label": "支付每學期註冊的延讀學費",
+      "size": 5,
+      "id": "支付每學期註冊的延讀學費"
+    },
+    {
+      "type": "entity",
+      "label": "2024/2025 學年起入學的學生",
+      "size": 15,
+      "id": "2024/2025 學年起入學的學生"
+    },
+    {
+      "type": "entity",
+      "label": "澳門學生",
+      "size": 5,
+      "id": "澳門學生"
+    },
+    {
+      "type": "entity",
+      "label": "中國內地、香港及中國台灣學生",
+      "size": 5,
+      "id": "中國內地、香港及中國台灣學生"
+    },
+    {
+      "type": "entity",
+      "label": "其他地區學生",
+      "size": 5,
+      "id": "其他地區學生"
+    },
+    {
+      "type": "entity",
+      "label": "透過MyUTM app 或 eServices 查閱服務清單",
+      "size": 5,
+      "id": "透過MyUTM app 或 eServices 查閱服務清單"
+    },
+    {
+      "type": "entity",
+      "label": "學生延遲繳費的申請",
+      "size": 5,
+      "id": "學生延遲繳費的申請"
+    },
+    {
+      "type": "entity",
+      "label": "所有費用",
+      "size": 5,
+      "id": "所有費用"
+    },
+    {
+      "type": "entity",
+      "label": "退還",
+      "size": 5,
+      "id": "退還"
+    },
+    {
+      "type": "entity",
+      "label": "校園管理處",
+      "size": 5,
+      "id": "校園管理處"
+    },
+    {
+      "type": "entity",
+      "label": "呈交有關證明文件",
+      "size": 5,
+      "id": "呈交有關證明文件"
+    },
+    {
+      "type": "entity",
+      "label": "社交媒體平台",
+      "size": 5,
+      "id": "社交媒體平台"
+    },
+    {
+      "type": "entity",
+      "label": "儘快離開校舍返回家中",
+      "size": 5,
+      "id": "儘快離開校舍返回家中"
+    },
+    {
+      "type": "entity",
+      "label": "非本地生",
+      "size": 5,
+      "id": "非本地生"
+    },
+    {
+      "type": "entity",
+      "label": "於翌日離澳",
+      "size": 5,
+      "id": "於翌日離澳"
+    },
+    {
+      "type": "entity",
+      "label": "於同一期限前的辦公時間內親赴出入境事務廳辦理手續",
+      "size": 5,
+      "id": "於同一期限前的辦公時間內親赴出入境事務廳辦理手續"
+    },
+    {
+      "type": "entity",
+      "label": "在最長修讀期內報讀必修科目",
+      "size": 5,
+      "id": "在最長修讀期內報讀必修科目"
+    },
+    {
+      "type": "entity",
+      "label": "完成及取得就讀課程之所需學分",
+      "size": 5,
+      "id": "完成及取得就讀課程之所需學分"
+    },
+    {
+      "type": "entity",
+      "label": "提交網上表格",
+      "size": 5,
+      "id": "提交網上表格"
+    },
+    {
+      "type": "entity",
+      "label": "繳交報名費",
+      "size": 5,
+      "id": "繳交報名費"
+    },
+    {
+      "type": "entity",
+      "label": "符合錄取要求",
+      "size": 5,
+      "id": "符合錄取要求"
+    },
+    {
+      "type": "entity",
+      "label": "提出轉讀申請",
+      "size": 5,
+      "id": "提出轉讀申請"
+    },
+    {
+      "type": "entity",
+      "label": "全球旅遊倫理規範",
+      "size": 5,
+      "id": "全球旅遊倫理規範"
+    },
+    {
+      "type": "entity",
+      "label": "負責任旅遊和可持續旅遊的基本參考框架",
+      "size": 5,
+      "id": "負責任旅遊和可持續旅遊的基本參考框架"
+    },
+    {
+      "type": "entity",
+      "label": "政府",
+      "size": 5,
+      "id": "政府"
+    },
+    {
+      "type": "entity",
+      "label": "旅遊者的安全",
+      "size": 5,
+      "id": "旅遊者的安全"
+    },
+    {
+      "type": "entity",
+      "label": "旅遊者",
+      "size": 10,
+      "id": "旅遊者"
+    },
+    {
+      "type": "entity",
+      "label": "熟悉他們準備訪問國家的特點",
+      "size": 5,
+      "id": "熟悉他們準備訪問國家的特點"
+    },
+    {
+      "type": "entity",
+      "label": "知曉健康與安全方面的風險",
+      "size": 5,
+      "id": "知曉健康與安全方面的風險"
+    },
+    {
+      "type": "entity",
+      "label": "旅遊活動",
+      "size": 5,
+      "id": "旅遊活動"
+    },
+    {
+      "type": "entity",
+      "label": "自我教育和相互容忍",
+      "size": 5,
+      "id": "自我教育和相互容忍"
+    },
+    {
+      "type": "entity",
+      "label": "公共機構",
+      "size": 5,
+      "id": "公共機構"
+    },
+    {
+      "type": "entity",
+      "label": "社會旅遊的發展",
+      "size": 5,
+      "id": "社會旅遊的發展"
+    },
+    {
+      "type": "entity",
+      "label": "旅遊者和訪問者",
+      "size": 5,
+      "id": "旅遊者和訪問者"
+    },
+    {
+      "type": "entity",
+      "label": "自由旅行",
+      "size": 5,
+      "id": "自由旅行"
+    },
+    {
+      "type": "entity",
+      "label": "研究活動",
+      "size": 5,
+      "id": "研究活動"
+    },
+    {
+      "type": "entity",
+      "label": "研究參與者",
+      "size": 10,
+      "id": "研究參與者"
+    },
+    {
+      "type": "entity",
+      "label": "拒絕參與或在過程中退出",
+      "size": 5,
+      "id": "拒絕參與或在過程中退出"
+    },
+    {
+      "type": "entity",
+      "label": "研究者",
+      "size": 35,
+      "id": "研究者"
+    },
+    {
+      "type": "entity",
+      "label": "對以前的研究表現出最大的尊重",
+      "size": 5,
+      "id": "對以前的研究表現出最大的尊重"
+    },
+    {
+      "type": "entity",
+      "label": "所收集的所有數據/資訊的安全性",
+      "size": 5,
+      "id": "所收集的所有數據/資訊的安全性"
+    },
+    {
+      "type": "entity",
+      "label": "獲得參與者的同意",
+      "size": 5,
+      "id": "獲得參與者的同意"
+    },
+    {
+      "type": "entity",
+      "label": "研究貢獻得到應有的承認",
+      "size": 5,
+      "id": "研究貢獻得到應有的承認"
+    },
+    {
+      "type": "entity",
+      "label": "研究",
+      "size": 5,
+      "id": "研究"
+    },
+    {
+      "type": "entity",
+      "label": "應用或實踐性質的項目",
+      "size": 5,
+      "id": "應用或實踐性質的項目"
+    },
+    {
+      "type": "entity",
+      "label": "抄襲他人的想法和/或研究設計",
+      "size": 5,
+      "id": "抄襲他人的想法和/或研究設計"
+    },
+    {
+      "type": "entity",
+      "label": "指導教師",
+      "size": 5,
+      "id": "指導教師"
+    },
+    {
+      "type": "entity",
+      "label": "避免所有研究合作",
+      "size": 5,
+      "id": "避免所有研究合作"
+    },
+    {
+      "type": "entity",
+      "label": "拒絕參與",
+      "size": 5,
+      "id": "拒絕參與"
+    },
+    {
+      "type": "entity",
+      "label": "數據收集",
+      "size": 5,
+      "id": "數據收集"
+    },
+    {
+      "type": "entity",
+      "label": "倫理標準",
+      "size": 5,
+      "id": "倫理標準"
+    },
+    {
+      "type": "entity",
+      "label": "遵守倫理準則",
+      "size": 10,
+      "id": "遵守倫理準則"
+    },
+    {
+      "type": "entity",
+      "label": "數據",
+      "size": 15,
+      "id": "數據"
+    },
+    {
+      "type": "entity",
+      "label": "參與者的同意",
+      "size": 5,
+      "id": "參與者的同意"
+    },
+    {
+      "type": "entity",
+      "label": "未經授權的使用",
+      "size": 5,
+      "id": "未經授權的使用"
+    },
+    {
+      "type": "entity",
+      "label": "數據的使用",
+      "size": 5,
+      "id": "數據的使用"
+    },
+    {
+      "type": "entity",
+      "label": "參與者",
+      "size": 5,
+      "id": "參與者"
+    },
+    {
+      "type": "entity",
+      "label": "研究的目的",
+      "size": 5,
+      "id": "研究的目的"
+    },
+    {
+      "type": "entity",
+      "label": "安全保存",
+      "size": 5,
+      "id": "安全保存"
+    },
+    {
+      "type": "entity",
+      "label": "報告",
+      "size": 5,
+      "id": "報告"
+    },
+    {
+      "type": "entity",
+      "label": "適當的信用或認可",
+      "size": 5,
+      "id": "適當的信用或認可"
+    },
+    {
+      "type": "entity",
+      "label": "貢獻者",
+      "size": 5,
+      "id": "貢獻者"
+    },
+    {
+      "type": "entity",
+      "label": "被列為合著者",
+      "size": 5,
+      "id": "被列為合著者"
+    },
+    {
+      "type": "entity",
+      "label": "導師的指導",
+      "size": 5,
+      "id": "導師的指導"
+    },
+    {
+      "type": "entity",
+      "label": "論文/計劃書實習課程協調員",
+      "size": 5,
+      "id": "論文/計劃書實習課程協調員"
+    },
+    {
+      "type": "entity",
+      "label": "解決問題",
+      "size": 5,
+      "id": "解決問題"
+    },
+    {
+      "type": "entity",
+      "label": "同意書範本",
+      "size": 5,
+      "id": "同意書範本"
+    },
+    {
+      "type": "entity",
+      "label": "學術誠信網上練習",
+      "size": 5,
+      "id": "學術誠信網上練習"
+    },
+    {
+      "type": "entity",
+      "label": "畢業論文作業",
+      "size": 5,
+      "id": "畢業論文作業"
+    },
+    {
+      "type": "entity",
+      "label": "研究道德準則",
+      "size": 5,
+      "id": "研究道德準則"
+    },
+    {
+      "type": "entity",
+      "label": "生成式 AI 工具",
+      "size": 15,
+      "id": "生成式 AI 工具"
+    },
+    {
+      "type": "entity",
+      "label": "工作效率",
+      "size": 5,
+      "id": "工作效率"
+    },
+    {
+      "type": "entity",
+      "label": "教學人員在課程中使用",
+      "size": 5,
+      "id": "教學人員在課程中使用"
+    },
+    {
+      "type": "entity",
+      "label": "教學人員",
+      "size": 5,
+      "id": "教學人員"
+    },
+    {
+      "type": "entity",
+      "label": "生成式 AI 工具的使用",
+      "size": 10,
+      "id": "生成式 AI 工具的使用"
+    },
+    {
+      "type": "entity",
+      "label": "自行取得和使用生成式 AI 工具",
+      "size": 5,
+      "id": "自行取得和使用生成式 AI 工具"
+    },
+    {
+      "type": "entity",
+      "label": "澳旅大",
+      "size": 5,
+      "id": "澳旅大"
+    },
+    {
+      "type": "entity",
+      "label": "確保資訊準確",
+      "size": 5,
+      "id": "確保資訊準確"
+    },
+    {
+      "type": "entity",
+      "label": "負責任使用",
+      "size": 5,
+      "id": "負責任使用"
+    },
+    {
+      "type": "entity",
+      "label": "生成式 AI 工具的使用條件",
+      "size": 5,
+      "id": "生成式 AI 工具的使用條件"
+    },
+    {
+      "type": "entity",
+      "label": "學業不誠實行為",
+      "size": 5,
+      "id": "學業不誠實行為"
+    }
+  ],
+  "links": [
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "澳門旅遊大學",
+      "target": "平等機會政策",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "澳門旅遊大學",
+      "target": "平等機會政策",
+      "key": 1
+    },
+    {
+      "relation": "提供",
+      "weight": 1.0,
+      "source": "澳門旅遊大學",
+      "target": "旅遊及服務業範疇的學位和專業培訓課程",
+      "key": 0
+    },
+    {
+      "relation": "協助",
+      "weight": 1.0,
+      "source": "澳門旅遊大學",
+      "target": "有關學生實習支援",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "澳門旅遊大學",
+      "target": "研究活動",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "澳門旅遊大學",
+      "target": "研究道德準則",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "學士學位課程手冊",
+      "target": "課程概覧",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "學士學位課程手冊",
+      "target": "課程規章",
+      "key": 0
+    },
+    {
+      "relation": "管理",
+      "weight": 1.0,
+      "source": "教務部",
+      "target": "課程大綱",
+      "key": 0
+    },
+    {
+      "relation": "管理",
+      "weight": 1.0,
+      "source": "教務部",
+      "target": "病假申請",
+      "key": 0
+    },
+    {
+      "relation": "管理",
+      "weight": 1.0,
+      "source": "教務部",
+      "target": "處罰及自辯紀錄",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "教務部",
+      "target": "所有的上訴作出書面紀錄",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "教務部",
+      "target": "學生延遲繳費的申請",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "課程大綱",
+      "target": "生成式 AI 工具的使用條件",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "平均分 (GPA)",
+      "target": "學目成績公佈",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "分數覆核及上訴",
+      "target": "評估或考核",
+      "key": 0
+    },
+    {
+      "relation": "管理",
+      "weight": 1.0,
+      "source": "休學",
+      "target": "學生",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "休學",
+      "target": "獲相關學院院長批准",
+      "key": 0
+    },
+    {
+      "relation": "有權",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "申請",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "成功通過課程大綱上所有評核要求",
+      "key": 0
+    },
+    {
+      "relation": "申請",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "合理缺席",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "準時上課",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "達到最少75%才可參加考試",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "參加由學院安排或支持的活動",
+      "key": 0
+    },
+    {
+      "relation": "管理",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "出席率",
+      "key": 0
+    },
+    {
+      "relation": "管理",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "考試資格",
+      "key": 0
+    },
+    {
+      "relation": "申請",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "休學",
+      "key": 0
+    },
+    {
+      "relation": "申請",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "附有簽署的成績表",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "携帶身份證明文件或學生證",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "遵守監考人員的指引",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "確保所有補充頁或相關文件存放於答案簿內",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "儘早以電郵或電話通知教務部",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "提交病假申請",
+      "key": 0
+    },
+    {
+      "relation": "有權",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "申請更改評估或考核時間表",
+      "key": 0
+    },
+    {
+      "relation": "禁止",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "參加任何活動",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "在判決後10個工作天內以書面陳述其上訴的理據",
+      "key": 0
+    },
+    {
+      "relation": "申請",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "傳召其他證人",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "支付每學期註冊的延讀學費",
+      "key": 0
+    },
+    {
+      "relation": "有權",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "透過MyUTM app 或 eServices 查閱服務清單",
+      "key": 0
+    },
+    {
+      "relation": "申請",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "校園管理處",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "呈交有關證明文件",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "儘快離開校舍返回家中",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "於同一期限前的辦公時間內親赴出入境事務廳辦理手續",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "在最長修讀期內報讀必修科目",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "完成及取得就讀課程之所需學分",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "提交網上表格",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "繳交報名費",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "符合錄取要求",
+      "key": 0
+    },
+    {
+      "relation": "有權",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "提出轉讀申請",
+      "key": 0
+    },
+    {
+      "relation": "申請",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "導師的指導",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "遵守倫理準則",
+      "key": 0
+    },
+    {
+      "relation": "管理",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "畢業論文作業",
+      "key": 0
+    },
+    {
+      "relation": "有權",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "自行取得和使用生成式 AI 工具",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學生",
+      "target": "確保資訊準確",
+      "key": 0
+    },
+    {
+      "relation": "處罰",
+      "weight": 1.0,
+      "source": "退學",
+      "target": "學生",
+      "key": 0
+    },
+    {
+      "relation": "申請",
+      "weight": 1.0,
+      "source": "復學",
+      "target": "學生",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "評估方法",
+      "target": "評估或考核",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "學業不誠實行為的政策",
+      "target": "支援和優化學生學習",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "學業不誠實行為的政策",
+      "target": "考試中的不當行為",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "英語中心",
+      "target": "學生學習",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "英語中心",
+      "target": "學士學位課程學生",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "數學中心",
+      "target": "學生學習",
+      "key": 0
+    },
+    {
+      "relation": "提供",
+      "weight": 1.0,
+      "source": "數學中心",
+      "target": "數學相關的支援",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "課餘活動",
+      "target": "學生學習",
+      "key": 0
+    },
+    {
+      "relation": "禁止",
+      "weight": 1.0,
+      "source": "考試中的不當行為",
+      "target": "學生",
+      "key": 0
+    },
+    {
+      "relation": "管理",
+      "weight": 1.0,
+      "source": "呈交分數",
+      "target": "考試",
+      "key": 0
+    },
+    {
+      "relation": "規範",
+      "weight": 1.0,
+      "source": "評估或考核時間表",
+      "target": "考試",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "認識評估或考核規則",
+      "target": "學生",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "教學委員會",
+      "target": "學生代表",
+      "key": 0
+    },
+    {
+      "relation": "管理",
+      "weight": 1.0,
+      "source": "學生紀律守則",
+      "target": "學生處分小組",
+      "key": 0
+    },
+    {
+      "relation": "規範",
+      "weight": 1.0,
+      "source": "學生紀律守則",
+      "target": "輕微過失",
+      "key": 0
+    },
+    {
+      "relation": "規範",
+      "weight": 1.0,
+      "source": "學生紀律守則",
+      "target": "嚴重過失",
+      "key": 0
+    },
+    {
+      "relation": "禁止",
+      "weight": 1.0,
+      "source": "學生紀律守則",
+      "target": "違規行為",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "學生處分小組",
+      "target": "審理學生違規個案的體制",
+      "key": 0
+    },
+    {
+      "relation": "處罰",
+      "weight": 1.0,
+      "source": "學生處分小組",
+      "target": "學生",
+      "key": 0
+    },
+    {
+      "relation": "協助",
+      "weight": 1.0,
+      "source": "學生處分小組",
+      "target": "學術委員會",
+      "key": 0
+    },
+    {
+      "relation": "協助",
+      "weight": 1.0,
+      "source": "實習單位",
+      "target": "學生",
+      "key": 0
+    },
+    {
+      "relation": "處罰",
+      "weight": 1.0,
+      "source": "違規行為",
+      "target": "學業不誠實行為",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "學生簽證",
+      "target": "課程活動之行政支援",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "學士學位課程",
+      "target": "學年",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "學士學位課程",
+      "target": "修讀年期及畢業學分",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "學士學位課程",
+      "target": "畢業資格",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "學士學位課程",
+      "target": "畢業榮譽",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "學士學位課程",
+      "target": "實習",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "學士學位課程",
+      "target": "班級",
+      "key": 0
+    },
+    {
+      "relation": "提供",
+      "weight": 1.0,
+      "source": "學生手冊",
+      "target": "資料有助學生解決在讀時可能遇到的問題",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "申請者",
+      "target": "填妥專用表格",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "合理缺席",
+      "target": "住院病假",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "合理缺席",
+      "target": "醫療強制隔離",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "合理缺席",
+      "target": "喪假",
+      "key": 0
+    },
+    {
+      "relation": "管理",
+      "weight": 1.0,
+      "source": "休學期",
+      "target": "最長修讀期",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "相關學院院長",
+      "target": "上訴專案小組",
+      "key": 0
+    },
+    {
+      "relation": "申請",
+      "weight": 1.0,
+      "source": "復學生",
+      "target": "復學",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "大學",
+      "target": "遵從有關安排",
+      "key": 0
+    },
+    {
+      "relation": "提供",
+      "weight": 1.0,
+      "source": "大學",
+      "target": "交換生課程",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "大學",
+      "target": "社交媒體平台",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "非正式退學學生",
+      "target": "繳交相關行政費澳門元3,000",
+      "key": 0
+    },
+    {
+      "relation": "有權",
+      "weight": 1.0,
+      "source": "首席監考員",
+      "target": "把考試改期或取消",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "病假證明",
+      "target": "由醫院或政府衛生中心發出之病假證明",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "補考",
+      "target": "於有關考試日起三週內完成",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "補考",
+      "target": "其他考核方式進行",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "不誠實行為",
+      "target": "作弊",
+      "key": 0
+    },
+    {
+      "relation": "提供",
+      "weight": 1.0,
+      "source": "望廈迎賓館",
+      "target": "專業培訓",
+      "key": 0
+    },
+    {
+      "relation": "提供",
+      "weight": 1.0,
+      "source": "教學餐廳",
+      "target": "專業培訓",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "學術委員會",
+      "target": "審議上訴",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "學術委員會",
+      "target": "學生上訴",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "學術委員會",
+      "target": "相關人士處理事件",
+      "key": 0
+    },
+    {
+      "relation": "有權",
+      "weight": 1.0,
+      "source": "違規學生",
+      "target": "學術委員會上訴",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "圖書館",
+      "target": "學習及資訊搜索",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "2024/2025 學年起入學的學生",
+      "target": "澳門學生",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "2024/2025 學年起入學的學生",
+      "target": "中國內地、香港及中國台灣學生",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "2024/2025 學年起入學的學生",
+      "target": "其他地區學生",
+      "key": 0
+    },
+    {
+      "relation": "禁止",
+      "weight": 1.0,
+      "source": "所有費用",
+      "target": "退還",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "非本地生",
+      "target": "於翌日離澳",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "全球旅遊倫理規範",
+      "target": "負責任旅遊和可持續旅遊的基本參考框架",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "政府",
+      "target": "旅遊者的安全",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "旅遊者",
+      "target": "熟悉他們準備訪問國家的特點",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "旅遊者",
+      "target": "知曉健康與安全方面的風險",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "旅遊活動",
+      "target": "自我教育和相互容忍",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "公共機構",
+      "target": "社會旅遊的發展",
+      "key": 0
+    },
+    {
+      "relation": "有權",
+      "weight": 1.0,
+      "source": "旅遊者和訪問者",
+      "target": "自由旅行",
+      "key": 0
+    },
+    {
+      "relation": "有權",
+      "weight": 1.0,
+      "source": "研究參與者",
+      "target": "拒絕參與或在過程中退出",
+      "key": 0
+    },
+    {
+      "relation": "有權",
+      "weight": 1.0,
+      "source": "研究參與者",
+      "target": "拒絕參與",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "研究者",
+      "target": "對以前的研究表現出最大的尊重",
+      "key": 0
+    },
+    {
+      "relation": "管理",
+      "weight": 1.0,
+      "source": "研究者",
+      "target": "所收集的所有數據/資訊的安全性",
+      "key": 0
+    },
+    {
+      "relation": "申請",
+      "weight": 1.0,
+      "source": "研究者",
+      "target": "獲得參與者的同意",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "研究者",
+      "target": "研究貢獻得到應有的承認",
+      "key": 0
+    },
+    {
+      "relation": "禁止",
+      "weight": 1.0,
+      "source": "研究者",
+      "target": "抄襲他人的想法和/或研究設計",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "研究者",
+      "target": "遵守倫理準則",
+      "key": 0
+    },
+    {
+      "relation": "管理",
+      "weight": 1.0,
+      "source": "研究者",
+      "target": "數據的使用",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "研究",
+      "target": "應用或實踐性質的項目",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "指導教師",
+      "target": "避免所有研究合作",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "數據收集",
+      "target": "倫理標準",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "數據",
+      "target": "參與者的同意",
+      "key": 0
+    },
+    {
+      "relation": "禁止",
+      "weight": 1.0,
+      "source": "數據",
+      "target": "未經授權的使用",
+      "key": 0
+    },
+    {
+      "relation": "必須",
+      "weight": 1.0,
+      "source": "數據",
+      "target": "安全保存",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "參與者",
+      "target": "研究的目的",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "報告",
+      "target": "適當的信用或認可",
+      "key": 0
+    },
+    {
+      "relation": "有權",
+      "weight": 1.0,
+      "source": "貢獻者",
+      "target": "被列為合著者",
+      "key": 0
+    },
+    {
+      "relation": "協助",
+      "weight": 1.0,
+      "source": "論文/計劃書實習課程協調員",
+      "target": "解決問題",
+      "key": 0
+    },
+    {
+      "relation": "包括",
+      "weight": 1.0,
+      "source": "同意書範本",
+      "target": "學術誠信網上練習",
+      "key": 0
+    },
+    {
+      "relation": "支持",
+      "weight": 1.0,
+      "source": "生成式 AI 工具",
+      "target": "工作效率",
+      "key": 0
+    },
+    {
+      "relation": "禁止",
+      "weight": 1.0,
+      "source": "生成式 AI 工具",
+      "target": "教學人員在課程中使用",
+      "key": 0
+    },
+    {
+      "relation": "申請",
+      "weight": 1.0,
+      "source": "生成式 AI 工具",
+      "target": "負責任使用",
+      "key": 0
+    },
+    {
+      "relation": "管理",
+      "weight": 1.0,
+      "source": "教學人員",
+      "target": "生成式 AI 工具的使用",
+      "key": 0
+    },
+    {
+      "relation": "規範",
+      "weight": 1.0,
+      "source": "澳旅大",
+      "target": "生成式 AI 工具的使用",
+      "key": 0
+    }
+  ],
+  "metadata": {
+    "version": "5.0",
+    "created": "2025-06-13 20:31:23",
+    "nodes": 189,
+    "edges": 146,
+    "allowed_relations": [
+      "are",
+      "支持",
+      "must",
+      "包括",
+      "申請",
+      "修述",
+      "withdraws",
+      "belongs_to",
+      "有權",
+      "assumes",
+      "規範",
+      "禁止",
+      "supports",
+      "協助",
+      "promotes",
+      "requires",
+      "管理",
+      "cannot_use",
+      "處罰",
+      "applies",
+      "inquires",
+      "發出",
+      "ensures",
+      "has_right",
+      "詢問",
+      "signs",
+      "收回",
+      "involves",
+      "supervises",
+      "受監督",
+      "describes",
+      "拒絕",
+      "填妥",
+      "公佈",
+      "manages",
+      "certifies",
+      "確保",
+      "refuses",
+      "includes",
+      "handles",
+      "涉及",
+      "處理",
+      "證明",
+      "assists",
+      "implements",
+      "avoids",
+      "offers",
+      "通過",
+      "records",
+      "issues",
+      "governs",
+      "不得使用",
+      "contains",
+      "regulates",
+      "提供",
+      "can",
+      "should",
+      "publishes",
+      "provides",
+      "簽署",
+      "prohibits",
+      "被記錄為",
+      "penalizes",
+      "避免",
+      "必須"
+    ]
+  }
+}
